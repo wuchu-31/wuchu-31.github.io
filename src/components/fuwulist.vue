@@ -11,7 +11,7 @@
         <img class="tu-img" src="../assets/zhishi1.jpg" alt="">
       </a-grid-item>
       <a-grid-item style="margin: 0 auto;" class="demo-item">
-        <img class="tu-img" src="../assets/B6.jpg" alt="">
+        <img class="tu-img" src="../assets/petimg2.jpg" alt="">
       </a-grid-item>
       <a-grid-item style="margin: 0 auto;" class="demo-item">
         <h6 style=" margin-top: 16px;font-size: 20px;color: #FA8C35;line-height: 32px;">Pet cleaning</h6>
